@@ -14,5 +14,5 @@ Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** co
 Estoy abierto a participar en **proyectos interesantes** que me permitan desarrollar mis habilidades y aportar valor.  
 
 ## 📫 Contacto
-*(Puedes añadir aquí tu email, LinkedIn o GitHub si quieres)*
+*jarrabaldv@gmail.com
 �
