@@ -3,14 +3,14 @@
 # 📂 Mis Repositorios
 
 ## Wordpress
-[Wordpress-web]([https://github.com/TU_USUARIO/Proyecto1](https://github.com/jarrval222/Wordpress-web))  
+[Wordpress-web]([https://github.com/jarrval222/Wordpress-web](https://github.com/jarrval222/Wordpress-web))  
 ![Stars]([https://img.shields.io/github/stars/jarrval222/Wordpress-web?style=flat-square))  
 ![Último commit]([![GitHub last commit](https://img.shields.io/github/last-commit/jarrval222/Wordpress-web)))
 
 ---
 
 ## ODS 1
-[ODS1]([https://github.com/TU_USUARIO/Proyecto2](https://github.com/jarrval222/ODS1))  
+[ODS1]([https://github.com/jarrval222/ODS1](https://github.com/jarrval222/ODS1))  
 ![Stars]([https://img.shields.io/github/stars/jarrval222/ODS1?style=flat-square))  
 ![GitHub last commit](https://img.shields.io/github/last-commit/jarrval222/ODS1)
 
