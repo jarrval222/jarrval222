@@ -1,5 +1,20 @@
 # Javier Arrabal del Valle
 
+# 📂 Mis Repositorios
+
+## Wordpress
+[Wordpress-web]([https://github.com/TU_USUARIO/Proyecto1](https://github.com/jarrval222/Wordpress-web))  
+![Stars]([https://img.shields.io/github/stars/jarrval222/Wordpress-web?style=social))  
+![Último commit]([![GitHub last commit](https://img.shields.io/github/last-commit/jarrval222/Wordpress-web)))
+
+---
+
+## ODS 1
+[ODS1]([https://github.com/TU_USUARIO/Proyecto2](https://github.com/jarrval222/ODS1))  
+![Stars]([https://img.shields.io/github/stars/jarrval222/ODS1?style=social))  
+![GitHub last commit](https://img.shields.io/github/last-commit/jarrval222/ODS1)
+
+
 ## 👨‍🎓 Sobre mí
 Soy estudiante de **2º de Administración de Sistemas Informáticos en Red (ASIR)** con gran interés en el mundo de la informática, las redes y la ciberseguridad. Me considero una persona responsable, con ganas de aprender y abierta a nuevos proyectos interesantes.  
 
