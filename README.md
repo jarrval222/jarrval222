@@ -1,11 +1,29 @@
 # Javier Arrabal del Valle
 
 ## 👨‍🎓 Sobre mí
-Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con ganas de seguir aprendiendo y creciendo en el ámbito tecnológico.  
+Soy estudiante de **2º de Administración de Sistemas Informáticos en Red (ASIR)** con gran interés en el mundo de la informática, las redes y la ciberseguridad. Me considero una persona responsable, con ganas de aprender y abierta a nuevos proyectos interesantes.  
+
+## 🎓 Formación Académica
+- **Bachillerato Tecnológico** – IES Luis Bueno Crespo  
+- **Administración de Sistemas Informáticos en Red (ASIR)** – 2º curso - IES Zaidin Vergeles
 
 ## 💼 Experiencia
 - **Técnico de Telecomunicaciones** (1 mes)  
-  Adquirí experiencia práctica en instalaciones y mantenimiento de sistemas de telecomunicaciones.  
+  - Instalación y mantenimiento de sistemas de telecomunicaciones.  
+  - Trabajo en campo y resolución de incidencias.  
+  - Manejo de herramientas básicas y cableado estructurado.  
+
+## 🛠️ Capacidades
+- **Relacionadas con ASIR**:  
+  - Administración de sistemas Linux y Windows.  
+  - Configuración de redes y servicios (DHCP, DNS, NAT, VLANs).  
+  - Virtualización con VirtualBox y entornos de servidor.  
+  - Gestión de usuarios, permisos y seguridad en sistemas.  
+
+- **Relacionadas con la experiencia laboral**:  
+  - Trabajo en equipo y adaptación a diferentes entornos.  
+  - Resolución de problemas técnicos en campo.  
+  - Organización y responsabilidad en el cumplimiento de tareas.  
 
 ## 🎂 Edad
 - 19 años  
@@ -14,5 +32,5 @@ Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** co
 Estoy abierto a participar en **proyectos interesantes** que me permitan desarrollar mis habilidades y aportar valor.  
 
 ## 📫 Contacto
-*jarrabaldv@gmail.com
-�
+*jarrabaldv@gmail.com*
+
