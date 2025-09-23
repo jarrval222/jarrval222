@@ -1,16 +1,18 @@
-## Hi there 👋
+# Javier Arrabal del Valle
 
-<!--
-**jarrval222/jarrval222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Sobre mí
+Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con ganas de seguir aprendiendo y creciendo en el ámbito tecnológico.  
 
-Here are some ideas to get you started:
+## 💼 Experiencia
+- **Técnico de Telecomunicaciones** (1 mes)  
+  Adquirí experiencia práctica en instalaciones y mantenimiento de sistemas de telecomunicaciones.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎂 Edad
+- 19 años  
+
+## 🚀 Intereses
+Estoy abierto a participar en **proyectos interesantes** que me permitan desarrollar mis habilidades y aportar valor.  
+
+## 📫 Contacto
+*(Puedes añadir aquí tu email, LinkedIn o GitHub si quieres)*
+�
